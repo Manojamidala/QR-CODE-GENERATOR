@@ -1,11 +1,9 @@
 # QR-CODE-GENERATOR
 # Introduction
-In this readme, we are going to see the demonstration of QR code Generation with the help of few python lines. Before Starting Let's Understand What is a QR code and why it is needed?.
-
-## What Is QR Code and What is the need for QR Code?
 A QR code stands for quick response code. It is a type of matrix barcode (or two-dimensional barcode).
 
-A QR code consists of black squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted.
+## What Is QR Code and What is the need for QR Code?
+
 QR code Generator with Tkinter GUI written in Python. Using it one can convert any text, url or number to QR Code. The generated QR code can be saved on the local machine as PNG file. The pyqrcode module is a QR code generator that is simple to use and written in pure python.
 ## Requirements:
 Following modules need to be installed for it to work properly:
